@@ -1,6 +1,4 @@
-**Description GitHub pour l'organisation :**
-
-Bienvenue sur le GitHub officiel de **Capespot**, l'application collaborative qui connecte entreprises, associations et collectivités autour du partage de biens et de ressources humaines. 🌍🤝  
+**Bienvenue sur le GitHub officiel de **Capespot**, l'application collaborative qui connecte entreprises, associations et collectivités autour du partage de biens et de ressources humaines. 🌍🤝**  
 
 🚀 **Objectif** : Promouvoir une économie durable et solidaire en optimisant les ressources disponibles localement.  
  
